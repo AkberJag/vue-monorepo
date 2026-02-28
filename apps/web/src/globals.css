@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* Bring in shadcn theme + @source directives from packages */
+@import "@repo/ui/assets/main.css";
+@import "@repo/app/assets/main.css";
