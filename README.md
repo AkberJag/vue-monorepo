@@ -9,3 +9,19 @@ This repository is a **minimal reproduction / discussion repo** created to ask a
 * 🟨 **JavaScript (no TypeScript)**
 
 The goal is to explore best practices, tooling compatibility, and DX when combining these tools in a monorepo setup.
+
+
+
+## 📦 Install Dependencies
+
+From the root of the monorepo:
+
+```bash
+bun install
+```
+
+## 🚀 Run Development Servers
+
+```bash
+bun run dev:web
+```
